@@ -1,8 +1,40 @@
-- 👋 Hi, I’m Caio Felipe
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Application Testing
-- 
-- 📫 How to reach me ...
+# 👋 Hi, I’m Caio Felipe
+
+## I'm a Fullstack Web Developer:
+- Building 🧱
+- Maintenance 🔧
+- Testing ⚗️
+- Containering 🗃️
+- Deployment 🖥️
+
+## Computer Science bachelor student
+
+## Proficiencies
+- Vue (Composition API) + Quasar + Pinia
+- React + Redux
+- NodeJS
+- Typescript
+- AdonisJS
+- ExpressJS 
+- Jest
+- Playwright
+- SQL
+- Wordpress
+- GitHub
+- LinkedIn Elementor
+- PHP
+- NoSQL
+- MongoDB
+- Redis
+- Microservices
+- Docker
+- Linux
+- CSS
+- Tailwind 
+- Bootstrap
+- Responsive Design
+- Git
+- E-commerce (Shopify/Nuvemshop)
 
 <!---
 Ca10San/Ca10San is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
