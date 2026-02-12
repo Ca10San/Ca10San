@@ -10,11 +10,12 @@
 ## Computer Science bachelor student
 
 ## Proficiencies
+- AWS Deployment& Maintenance
+- Terraform
 - Vue (Composition API) + Quasar + Pinia
 - React + Redux
 - NodeJS
 - Typescript
-- AdonisJS
 - ExpressJS 
 - Jest
 - Playwright
@@ -22,7 +23,6 @@
 - Wordpress
 - GitHub
 - LinkedIn Elementor
-- PHP
 - NoSQL
 - MongoDB
 - Redis
@@ -35,6 +35,7 @@
 - Responsive Design
 - Git
 - E-commerce (Shopify/Nuvemshop)
+- Unity (C#)
 
 <!---
 Ca10San/Ca10San is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
